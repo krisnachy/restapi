@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "Nyoba",
+        "body": "Percobaan Pertama"
+    }, {
+        "id": 2,
+        "title": "Test",
+        "body": "Percobaan Kedua"
+    }, {
+        "id": 3,
+        "title": "Nyoba lagi",
+        "body": "Percobaan Ketiga"
+    }, {
+        "id": 4,
+        "title": "Ngetest lagi",
+        "body": "Percobaan Keempat"
+    }
+]
